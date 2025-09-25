@@ -1,34 +1,31 @@
-# 📚 Taller de introducción a Markdown
+Taller de introducción a Markdown
+  
 
-Bienvenido a este repositorio de práctica de **Markdown**.  
-Aquí aplicamos *todas* las etiquetas básicas que hemos aprendido.  
 
----
-
-## 1️⃣ Encabezados
+Encabezados
 Los encabezados se crean con `#`:
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# Esto es un encabezado h1
+## Esto es un encabezado H2
+### Esto es un encabezado H3
+#### Esto es un encabezado H4
+##### Esto es un encabezado H5
+###### Esto es un encabezado H6
 
 ---
 
-## 2️⃣ Negrita y cursiva
+Negrita y cursiva
 - **Texto en negrita**  
 - *Texto en cursiva*  
 - **_Negrita y cursiva_**
 
 ---
 
-## 3️⃣ Resaltar comandos
+Resaltar comandos
 Podemos resaltar comandos en línea como `ls -la` o `git status`.
 
 ---
 
-## 4️⃣ Bloques de código
+Bloques de código
 ```bash
 echo "Hola mundo desde Bash"
