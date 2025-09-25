@@ -22,7 +22,7 @@ Negrita y cursiva
 ---
 
 Resaltar comandos
-Podemos resaltar comandos en línea como `ls -la` o `git status`.
+Podemos resaltar comandos en línea como `ls -la` o `git status`. `hola`
 
 ---
 
