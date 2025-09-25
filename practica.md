@@ -4,4 +4,4 @@
 
 ### *Me alegra saludarte* y espero que estés `teniendo un buen día`.
 
-##### ¡Nos vemos pronto! h6
+##### ¡Nos vemos pronto! 
